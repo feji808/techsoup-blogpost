@@ -1,0 +1,1 @@
+Drupal.locale = { 'strings': { "Expand the options below and select the activity that best describes what your organization does.": "Expand the options below and choose the activity that best describes at least 50% of your organization’s work. We’ll review your choice to ensure its accuracy." } };
